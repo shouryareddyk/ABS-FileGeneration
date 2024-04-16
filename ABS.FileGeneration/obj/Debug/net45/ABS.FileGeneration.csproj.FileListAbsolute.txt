@@ -1,0 +1,13 @@
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\obj\Debug\net45\ABS.FileGeneration.csproj.AssemblyReference.cache
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\obj\Debug\net45\ABS.FileGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\obj\Debug\net45\ABS.FileGeneration.AssemblyInfoInputs.cache
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\obj\Debug\net45\ABS.FileGeneration.AssemblyInfo.cs
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\obj\Debug\net45\ABS.FileGeneration.csproj.CoreCompileInputs.cache
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\bin\Debug\net45\ABS.FileGeneration.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\bin\Debug\net45\ABS.FileGeneration.pdb
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\bin\Debug\net45\EPPlus.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\bin\Debug\net45\EPPlus.Interfaces.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\bin\Debug\net45\EPPlus.System.Drawing.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\obj\Debug\net45\ABS.FileGeneration.csproj.CopyComplete
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\obj\Debug\net45\ABS.FileGeneration.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\obj\Debug\net45\ABS.FileGeneration.pdb

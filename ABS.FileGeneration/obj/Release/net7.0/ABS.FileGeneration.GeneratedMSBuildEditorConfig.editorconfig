@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ABS.FileGeneration
+build_property.ProjectDir = C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

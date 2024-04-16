@@ -1,0 +1,12 @@
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\bin\Debug\net7.0\ABS.FileGeneration.deps.json
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\bin\Debug\net7.0\ABS.FileGeneration.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\bin\Debug\net7.0\ABS.FileGeneration.pdb
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\obj\Debug\net7.0\ABS.FileGeneration.csproj.AssemblyReference.cache
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\obj\Debug\net7.0\ABS.FileGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\obj\Debug\net7.0\ABS.FileGeneration.AssemblyInfoInputs.cache
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\obj\Debug\net7.0\ABS.FileGeneration.AssemblyInfo.cs
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\obj\Debug\net7.0\ABS.FileGeneration.csproj.CoreCompileInputs.cache
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\obj\Debug\net7.0\ABS.FileGeneration.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\obj\Debug\net7.0\refint\ABS.FileGeneration.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\obj\Debug\net7.0\ABS.FileGeneration.pdb
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.FileGeneration-20240408T174719Z-001\ABS.FileGeneration\obj\Debug\net7.0\ref\ABS.FileGeneration.dll

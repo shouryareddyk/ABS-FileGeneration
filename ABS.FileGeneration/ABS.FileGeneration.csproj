@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFrameworks>net7.0;net472</TargetFrameworks>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<AutoGenerateBindingRedirects>True</AutoGenerateBindingRedirects>
+		<LangVersion>10.0</LangVersion>
+	</PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="EPPlus" Version="7.1.1" />
+  </ItemGroup>
+
+</Project>

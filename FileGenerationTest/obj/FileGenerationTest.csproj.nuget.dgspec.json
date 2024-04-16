@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/shouryak12/Downloads/ABS.Project/ABS.FileGeneration-20240408T174719Z-001/FileGenerationTest/FileGenerationTest.csproj": {}
+  },
+  "projects": {
+    "/Users/shouryak12/Downloads/ABS.Project/ABS.FileGeneration-20240408T174719Z-001/ABS.FileGeneration/ABS.FileGeneration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/shouryak12/Downloads/ABS.Project/ABS.FileGeneration-20240408T174719Z-001/ABS.FileGeneration/ABS.FileGeneration.csproj",
+        "projectName": "ABS.FileGeneration",
+        "projectPath": "/Users/shouryak12/Downloads/ABS.Project/ABS.FileGeneration-20240408T174719Z-001/ABS.FileGeneration/ABS.FileGeneration.csproj",
+        "packagesPath": "/Users/shouryak12/.nuget/packages/",
+        "outputPath": "/Users/shouryak12/Downloads/ABS.Project/ABS.FileGeneration-20240408T174719Z-001/ABS.FileGeneration/obj/",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "/Users/shouryak12/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472",
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          },
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
+        },
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.1.1, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/shouryak12/Downloads/ABS.Project/ABS.FileGeneration-20240408T174719Z-001/FileGenerationTest/FileGenerationTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/shouryak12/Downloads/ABS.Project/ABS.FileGeneration-20240408T174719Z-001/FileGenerationTest/FileGenerationTest.csproj",
+        "projectName": "FileGenerationTest",
+        "projectPath": "/Users/shouryak12/Downloads/ABS.Project/ABS.FileGeneration-20240408T174719Z-001/FileGenerationTest/FileGenerationTest.csproj",
+        "packagesPath": "/Users/shouryak12/.nuget/packages/",
+        "outputPath": "/Users/shouryak12/Downloads/ABS.Project/ABS.FileGeneration-20240408T174719Z-001/FileGenerationTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shouryak12/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/shouryak12/Downloads/ABS.Project/ABS.FileGeneration-20240408T174719Z-001/ABS.FileGeneration/ABS.FileGeneration.csproj": {
+                "projectPath": "/Users/shouryak12/Downloads/ABS.Project/ABS.FileGeneration-20240408T174719Z-001/ABS.FileGeneration/ABS.FileGeneration.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "JustMock": {
+              "target": "Package",
+              "version": "[2024.1.124.247, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.7.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
